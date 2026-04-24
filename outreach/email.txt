@@ -1,46 +1,45 @@
 Subject: A concept website for The Beach Bowl — on us
-Preheader: We redesigned a concept Beach Bowl site on our own dime — take a look, then see what else we can do.
+Preheader: A live concept site + optional services with clear pricing — no retainers, keep what you want.
 
 Hey Beach Bowl team —
 
-I'm Ben with Advanced Marketing. We love what you've built with the bowls,
-boba, and loaded macs — and we thought your brand deserved a real front-facing
-website that matches the energy of the menu. So we built one. On our dime.
-No strings.
+I'm Ben with Advanced Marketing. We built a full front-facing website for
+The Beach Bowl on our dime, so you can see it live before we ever talk price.
 
-Here's the live concept:
+Here's the link — open it on desktop AND your phone:
 https://beachbowl.advancedmarketing.co
 
-WHAT WE ALREADY BUILT
-- Full brand site — hero, story, 4-section menu, visit, recipe book promo, footer.
-- 29 product photos — every bowl, every boba, every mac.
-- Order flow — every CTA and menu card deep-links into your existing Square
-  ordering page. No new checkout to maintain.
-- Hosted + secured — running on our server with SSL and Cloudflare CDN.
-- Mobile-first — designed for a phone on a dock.
+SIMPLE, A LA CARTE PRICING (pick what you want — no retainers, no bundling)
 
-WHAT WE CAN DO NEXT (pick per-piece, no retainers)
-- Point your domain. Swap the concept URL for thebeachbowldc.com (or any
-  domain you own). We handle DNS.
-- Recipe book store. We wire up The Beach Bowl Recipe Book at $9.99 delivered
-  instantly as a PDF. Passive off-season income.
-- Local SEO + Google. Google Business, Maps, schema, and blog content so
-  "açaí bowls Door County" lands on you.
-- Email & SMS loyalty. Birthday bowls, Friday boba drops, a season-opener
-  blast. Tied to your Square customer list.
-- Photography day. Replace the concept shots with real photos of your shop,
-  staff, and bowls — one half-day shoot.
-- Direct-mail postcards. Printable postcard attached to this email. Send it
-  to every zip code that hits your shop in July.
+  Service                                           Price
+  --------------------------------------------------------------
+  Website — buyout (keep the site, yours outright)  $500 one-time
+  Hosting (SSL + CDN, we run the server)            $20 / mo
+  Updates package (unlimited menu/photo/seasonal)   $50 / mo
+  The Beach Bowl Recipe Book — own it               $499 one-time
+  Recipe Book — 50/50 revenue split (KDP + ebook)   $0 upfront
+  Local SEO (Google)                                $299 / mo
+  Email & Loyalty program (self-managed)            $99 / mo
+  Direct mail postcards (design + print + mail)     As low as $1 / card
+  Printed product design (menus, cups, shirts…)     Request a quote
 
-THE BEACH BOWL RECIPE BOOK — $9.99 (launch price, normally $14.99)
-Every bowl, boba, smoothie and loaded mac — ratioed and timed. Off-season
-revenue that pays for the site.
-  https://beachbowl.advancedmarketing.co/#recipes
+All prices are month-to-month and cancellable any time. No setup fees. No
+minimum contracts.
 
-If anything in there sparks something, hit reply. Happy to walk you through
-it on a 15-minute call — and if you hate the concept, also totally fine. It's
-free to keep or ignore.
+THE RECIPE BOOK — TWO WAYS TO LAUNCH IT
+We've written the whole book — every bowl, boba, smoothie and loaded mac.
+Twenty recipes, ratioed + timed. Your call on how it rolls out:
+
+  Option 1 · Own it — $499 one-time
+    We hand off the watermarked source. Edit, re-brand, keep 100% of
+    the revenue. Sell at $9.99 or whatever you want.
+
+  Option 2 · Zero risk — $0 upfront, 50/50 revenue split
+    We publish the ebook + a KDP hardcover on Amazon. You keep 50% of
+    the profits, zero investment, no lift.
+
+Hit reply and pick what sounds good — we'll send you a one-pager confirming
+scope and start. No calls required unless you want one.
 
 Cheers,
 Ben · Advanced Marketing
