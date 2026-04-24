@@ -32,6 +32,7 @@ export function Nav() {
           <a href="#smoothies" className="hover:text-seafoam-700">Smoothies</a>
           <a href="#mac" className="hover:text-sand-500">Mac</a>
           <a href="#visit" className="hover:text-acai-500">Visit</a>
+          <a href="#recipes" className="hover:text-coral-500">Recipe Book</a>
         </nav>
         <a href={ORDER_URL} target="_blank" rel="noreferrer" className="btn-primary !py-3 !px-5 text-xs">
           Order Now
