@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #fdf9f2;
+}
+
+html, body {
+  background: var(--bg);
+  color: #1a1625;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-image:
+    radial-gradient(1200px 600px at 10% -10%, rgba(255, 111, 97, 0.18), transparent 60%),
+    radial-gradient(900px 500px at 110% 10%, rgba(107, 63, 160, 0.18), transparent 60%),
+    radial-gradient(900px 500px at 50% 110%, rgba(79, 195, 161, 0.15), transparent 60%);
+}
+
+.grain::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.35 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+  opacity: 0.08;
+  mix-blend-mode: multiply;
+  z-index: 60;
+}
+
+.text-gradient {
+  background: linear-gradient(90deg, #6b3fa0 0%, #ff6f61 50%, #4fc3a1 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.btn-primary {
+  @apply inline-flex items-center gap-2 rounded-full bg-ink px-7 py-4 text-sm font-semibold uppercase tracking-wider text-sand-50 transition hover:-translate-y-0.5 hover:bg-acai-700 hover:shadow-[0_14px_40px_-10px_rgba(71,36,112,0.6)];
+}
+.btn-secondary {
+  @apply inline-flex items-center gap-2 rounded-full border-2 border-ink px-7 py-4 text-sm font-semibold uppercase tracking-wider text-ink transition hover:-translate-y-0.5 hover:bg-ink hover:text-sand-50;
+}
